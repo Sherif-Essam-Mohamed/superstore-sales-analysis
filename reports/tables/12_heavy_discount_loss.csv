@@ -1,0 +1,3 @@
+﻿Discount_Group,Order_Lines,Total_Sales,Total_Profit,Profit_Margin_pct,Share_of_Lines_pct,Share_of_Sales_pct
+30%+ discount,1393,362770.1498000000,-135376.0560000000,-37.320000,13.940000000000,15.790000
+Under 30% discount,8601,1934430.7105000000,421773.0777000000,21.800000,86.060000000000,84.210000
